@@ -60,6 +60,8 @@ streamlit run app.py
 
 ```
 ├── app.py                # Streamlit app
+├── model.pkl             # Trained regression model
+├── scaler.pkl            # Scaler used for input normalization               
 
 ```
 
